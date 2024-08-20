@@ -1,7 +1,9 @@
 ## Hi there 👋🐣
 
 I'm **[Alifah Indi](https://indialifah-portfolio.vercel.app/)**, a Frontend Enthusiast based in Indonesia.
+
 I am a fresh graduate with degree in Informatics. I'm passionate about becoming a Software Engineer, particularly focusing on Frontend development. 
+
 
 🌱 I’m currently learning Frontend Programming, specifically ReactJs
 
