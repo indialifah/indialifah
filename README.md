@@ -11,9 +11,6 @@ I am a fresh graduate with degree in Informatics. I'm passionate about becoming 
 - [Linkedin 👥](https://www.linkedin.com/in/alifah-rumaishah-indi/)
 - [Email 📧](mailto:indialifah25@gmail.com)
 
-⚡ Fun fact: 
-- I play music, as a percussionist 🥁
-- One Piece Nakama's 🏴‍☠️
 
 > “A learning curve is essential to growth.”  
 > — Tammy Bjelland
